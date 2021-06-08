@@ -51,3 +51,4 @@ The multi-stage `Dockerfile` is completely unnecessary, but it demonstrates an a
     - `./build.sh`
 - Run the Docker image and extract the test results
     - `./test.sh`
+test
